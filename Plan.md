@@ -17,7 +17,7 @@ This document outlines the structured plan for implementing the Balance Scale Ad
 - Provide visual feedback through scale tilt and animations.
 - Ensure a responsive UI across different screen sizes.
 
-### **Expected Completion Date:** 10-03-2025
+### **Expected Completion Date:** 11-03-2025
 
 ---
 
